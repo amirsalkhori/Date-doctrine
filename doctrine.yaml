@@ -1,0 +1,3 @@
+dql:
+    datetime_functions:
+        DATE: App\DQL\Date
